@@ -24,38 +24,451 @@
 
 /* <!-- 第二部分 --> */
 /* <!-- 导航 --> */
-.Navigation  {
-   position: relative;
+.Navigation {
+    position: relative;
     width: 100%;
-    height: 930px; 
+    height: 67px;
+    background-color: cadetblue;
 }
+
 /* <!-- 背景图片 --> */
 .Navigation img {
+    float: left;
     height: 92px;
+    width: 100%;
 }
-/* <!-- 链接 --> */
+
 /* <!-- 图标 --> */
- ul {
-    position: absolute;
-    top: 80px;
-    right: 0;
-    display: block;
-   
+.aaa img {
+    width: 120px;
+    height: 85px;
+    margin: -99px 10px;
 }
-/* <!-- 导航链接 --> */
+
+/* <!-- 链接 --> */
+.pubg {
+    float: left;
+    width: 574px;
+    height: 50px;
+    margin: -86px 166px;
+}
+
+.pubg span {
+    float: left;
+    margin: 20px 10px;
+    color: seashell;
+}
+
+/* <!-- 进入官网链接 --> */
+.into {
+    float: right;
+    width: 470px;
+    height: 50px;
+    margin: -85px 0px;
+}
+
+.a {
+    float: left;
+    margin: 15px 50px;
+    color: #fff;
+}
+
 .x {
-    position: absolute;
-    top: 80px;
-    right: 0;
-    display: block;
-    width: 142px;
-    height: 40px;
-   
-    text-align: center;
-    line-height: 40px;
+    float: right;
+    width: 106px;
+    height: 44px;
     color: #fff;
     background: #e69800;
-    text-shadow: 1px 1px 1px #b27601;
+    margin: 10px 15px;
+
+}
+
+.x span {
+    margin-left: 20px;
+    line-height: 40px;
+}
+
+/* <!-- 第三部分 --> */
+/* <!-- 广告 --> */
+.Advertisement {
+    position: relative;
+    width: 100%;
+    height: 926px;
+    margin: -25px 0;
+}
+
+.Advertisement img {
+    margin: -25px 0px;
+}
+
+
+/* <!-- 链接 --> */
+.measurement {
+    position: absolute;
+    margin: -192px 470px;
+}
+
+.measurement img {
+    margin: 0px 36px;
+}
+
+/* <!-- 第四部分 --> */
+/* <!-- 领礼物 --> */
+.MakeAnAppointment {
+    position: relative;
+    height: 891px;
+}
+
+
+/* <!-- 字体 --> */
+.MakeAnAppointment .Typeface {
+    position: absolute;
+    top: 254px;
+    left: 590px;
+    font-size: 150px;
+    width: 765px;
+    height: 187px;
+
+}
+
+.Typeface span {
+    font-size: 150px;
+    color: #e09400;
+    font-weight: bold;
+}
+
+.picture {
+    position: absolute;
+    top: 594px;
+    left: 170px;
+}
+
+/* <!-- 第五部分 --> */
+/* <!-- 硬件检测 --> */
+.Hardware {
+    position: relative;
+    width: 100%;
+    height: 936px;
+}
+
+/* <!-- 背景图片 --> */
+/* <!-- 链接 --> */
+/* 盒子 */
+.layout-a {
+    position: absolute;
+    top: -640px;
+    left: 143px;
+    width: 912px;
+    height: 424px;
+}
+
+/* 左上角 */
+.layout-b {
+    float: left;
+    width: 455px;
+    height: 66px;
+}
+
+.layout-b .layout-b-a {
+    position: absolute;
+    top: 6px;
+    left: 174px;
+    width: 116px;
+    height: 48px;
+}
+
+.layout-b-a span {
+    line-height: 42px;
+    font-size: 24px;
+    color: #fff;
+}
+
+.layout-b-a .aa {
+    position: absolute;
+    top: 55px;
+    left: -10px;
+    width: 116px;
+    height: 5px;
+    background-color: darkorange;
+}
+
+/* 右上角 */
+.layout-c {
+    position: relative;
+    float: left;
+    width: 455px;
+    height: 66px;
+}
+
+.layout-c .layout-b-a {
+    position: absolute;
+    top: 6px;
+    left: 174px;
+    width: 116px;
+    height: 48px;
+}
+
+
+
+/* <!-- 左下角 --> */
+.layout-d {
+    float: left;
+    width: 455px;
+    height: 358px;
+}
+
+.aa-b {
+    width: 421px;
+    height: 358px;
+    margin: 0 17px;
+}
+
+.aa-b img {
+    width: 294px;
+    height: 72px;
+    margin: 27px 57px;
+}
+
+.d-b span {
+    color: #fff;
+    margin: 0px 61px;
+    line-height: 33px;
+}
+
+.d-c span {
+    color: #fff;
+    margin: 0px 61px;
+    line-height: 33px;
+}
+
+.d-b {
+    width: 421px;
+    height: 50px;
+    margin: 29px 0;
+}
+
+.d-b-a {
+    float: right;
+    width: 222px;
+    height: 35px;
+    background-color: chocolate;
+}
+
+.d-c {
+    width: 421px;
+    height: 50px;
+}
+
+.d-c-a {
+    float: right;
+    width: 222px;
+    height: 35px;
+    background-color: chocolate;
+}
+
+
+.d-d {
+    margin: 15px 60px;
+}
+
+.d-d span {
+    color: #fff;
+}
+
+.d-d a {
+    color: chocolate;
+}
+
+
+
+/* <!-- 右下角 --> */
+.layout-e {
+    float: left;
+    width: 455px;
+    height: 358px;
+}
+
+.aa-b {
+    width: 421px;
+    height: 358px;
+    margin: 0 17px;
+}
+
+.aa-b img {
+    width: 294px;
+    height: 72px;
+    margin: 27px 57px;
+}
+
+.e-b span {
+    color: #fff;
+    margin: 0px 61px;
+    line-height: 33px;
+}
+
+.e-c span {
+    color: #fff;
+    margin: 0px 61px;
+    line-height: 33px;
+}
+
+.e-b {
+    width: 421px;
+    height: 50px;
+    margin: 10px 0;
+}
+
+.e-b-a {
+    float: right;
+    width: 237px;
+    height: 60px;
+    background-color: chocolate;
+    margin: 10px 94px;
+}
+
+.ss {
+    font-size: 5px;
+}
+
+.e-c {
+    width: 421px;
+    height: 50px;
+}
+
+.e-c-a {
+    float: right;
+    width: 237px;
+    height: 60px;
+    background-color: chocolate;
+    margin: 10px 94px;
+}
+
+
+.e-d {
+    margin: 14px 60px;
+}
+
+.e-d span {
+    color: #fff;
+}
+
+.e-d a {
+    color: chocolate;
+}
+
+/* <!-- 第六部分 --> */
+/* <!-- 战友集结 --> */
+/* <!-- 背景图片 --> */
+.Comrade {
+    position: relative;
+    width: 100%;
+    height: 1130px;
+}
+
+/* <!-- 链接 --> */
+.Comrade-in {
+    position: absolute;
+    top: -969px;
+    left: 420px;
+    width: 400px;
+    height: 735px;
+}
+
+.Comrade-in span{
+    font-size: 46px;
+    color: #7a7c7f;
+    margin: 0px 131px;
+}
+
+.Comrade-in p{
+    color: #e29603;
+    font-weight: bold;
+    font-size: 120px;
+    font-family: "DINCond-Black";
+    margin: -30px 164px;
+}
+
+.Comrade-in .Comrade-in-s {
+    margin: 70px 41px;
+}
+
+.Comrade-in .Comrade-in-a {
+    margin: -81px -1px;
+}
+
+/* <!-- 第七部分 --> */
+.ActivityRules {
+    position: relative;
+}
+/* <!-- 活动规则 --> */
+/* <!-- 介绍 --> */
+.introduce {
+    position: absolute;
+    top: -230px;
+    left: 150px;
+    width: 770px;
+    height: 147px;
+}
+
+.introduce-s {
+   float: left;
+   width: 30px;
+   height: 30px;
+   border-radius: 50%;
+   background-color: black;
+}
+.introduce-s span {
+    color: #fff;
+    line-height: 29px;
+    margin: 0 10px;
+}
+.introduce-a p {
+    margin: 11px 60px;
+}
+/* <!-- 第八部分 --> */
+/* <!-- 底部 --> */
+.bottom {
+    width: 102%;
+    height: 180px;
+    background-color: black;
+}
+/* <!-- 链接 --> */
+.bottom-a {
+    float: left;
+    width: 400px;
+    height: 180px;
+}
+.bottom-a img {
+    float: left;
+    margin: 79px 0px;
+}
+
+.botto {
+    float: left;
+    margin: -26px 0px ;
+}
+
+
+.bottom-b {
+    float: left;
+    width: 800px;
+    height: 180px;
+}
+
+.bot-a {
+    width: 800px;
+    height: 30px;
+}
+
+.bot-a  a {
+    color: #676767;
+}
+.bot-a  .f_line {
+    color: #676767;
+}
+
+.bot-a  span {
+    color: #676767;
 }
 
 
