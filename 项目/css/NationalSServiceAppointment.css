@@ -58,7 +58,11 @@
     margin: 20px 10px;
     color: seashell;
 }
-
+.pubg .aaa {
+    float: left;
+    margin: 20px 10px;
+    color: #e69800; 
+}
 /* <!-- 进入官网链接 --> */
 .into {
     float: right;
