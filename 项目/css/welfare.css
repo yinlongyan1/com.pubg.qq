@@ -1,0 +1,284 @@
+/* <!-- 第一部分 --> */
+/* <!-- 平台 -->  */
+.platform {
+    width: 100%;
+    height: 45px;
+}
+
+/* 第一个链接 */
+.first {
+    margin: 0px 130px;
+}
+
+/* 第二个链接 */
+.thesecond {
+    float: right;
+    margin: 5px 0px;
+
+}
+
+.thesecond span {
+    margin: 0 8px;
+    size: 5px;
+}
+
+/* <!-- 第二部分 --> */
+/* <!-- 导航 --> */
+.Navigation {
+    position: relative;
+    width: 100%;
+    height: 67px;
+    background-color: cadetblue;
+}
+
+/* <!-- 背景图片 --> */
+.Navigation img {
+    float: left;
+    height: 92px;
+    width: 100%;
+}
+
+/* <!-- 图标 --> */
+.aaa img {
+    width: 120px;
+    height: 85px;
+    margin: -99px 10px;
+}
+
+/* <!-- 链接 --> */
+.pubg {
+    float: left;
+    width: 574px;
+    height: 50px;
+    margin: -86px 166px;
+}
+
+.pubg-a {
+    display: inline-block;
+    width: 139px;
+    height: 50px;
+}
+
+.pubg-a i {
+    display: block;
+    width: 4px;
+    height: 18px;
+    background: #d98500;
+}
+
+.pubg-a a {
+    display: inline-block;
+    text-decoration: none;
+    color: #ccc;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: -18px;
+}
+
+.pubg-a b {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 12px;
+}
+
+.pubg-a span {
+    padding-left: 12px;
+}
+
+
+/* <!-- 进入官网链接 --> */
+.into {
+    float: right;
+    width: 470px;
+    height: 50px;
+    margin: -85px 0px;
+}
+
+.a {
+    float: left;
+    margin: 15px 50px;
+    color: #fff;
+}
+
+.x {
+    float: right;
+    width: 106px;
+    height: 44px;
+    color: #fff;
+    background: #e69800;
+    margin: 10px 15px;
+
+}
+
+.x span {
+    margin-left: 20px;
+    line-height: 40px;
+}
+
+/* <!-- 第三部分 --> */
+/* <!-- 领取 --> */
+.Receive {
+    position: relative;
+    width: 100%;
+    height: 911px;
+    background-color: blue;
+}
+
+/* <!-- 背景图片 --> */
+.Receive img {
+    width: 100%;
+    height: 911px;
+    margin-top: -25px;
+}
+
+/* <!-- 领取链接 --> */
+
+.Claim {
+    position: absolute;
+    float: left;
+    margin-top: -179px;
+    margin-left: 356px;
+    width: 476px;
+    height: 110px;
+}
+
+.Claim img {
+    width: 476px;
+    height: 110px;
+}
+
+.Claim p {
+    text-align: center;
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: bold;
+    line-height: 36px;
+    margin-top: -100px;
+}
+
+.Claim .aa-a {
+    padding-top: 8px;
+    text-align: center;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 16px;
+    margin: -30px 60px;
+}
+
+
+/* <!-- 第四部分 --> */
+/* <!-- 规则 --> */
+
+.rule {
+    position: relative;
+    width: 100%;
+    height: 512px;
+}
+
+/* <!-- 背景图片 --> */
+.rule img {
+    width: 100%;
+    height: 512px;
+}
+
+/* <!-- 规则介绍--> */
+.rule-a {
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 200px;
+    width: 750px;
+    height: 120px;
+    display: inline-block;
+}
+
+.rule-b {
+    width: 750px;
+    height: 40px;
+}
+
+/* .rule-c {
+    float: left;
+} */
+
+
+.rule-c p {
+    text-align: center;
+    float: left;
+    width: 20px;
+    height: 20px;
+    color: #fff;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 1px;
+}
+
+.rule-c .aaa {
+    float: left;
+    width: 650px;
+    height: 20px;
+    margin-left: 20px;
+}
+
+.rule-c span {
+    float: left;
+    font-size: 18px;
+    color: #313131;
+}
+
+
+
+
+
+
+
+
+
+
+/* <!-- 第五部分 --> */
+/* <!-- 底部 --> */
+.bottom {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    margin-top: -4px;
+}
+
+.bottom-a img {
+    float: left;
+    width: 197px;
+    height: 74px;
+    margin-top: 77px;
+}
+
+.botto img {
+    float: left;
+    width: 197px;
+    height: 74px;
+    margin-top: 77px;
+}
+
+
+.bottom-b {
+    float: right;
+    margin-top: 38px;
+    width: 800px;
+}
+
+.bot-a {
+    width: 800px;
+    height: 30px;
+}
+
+.bot-a a {
+    color: #676767;
+}
+
+.bot-a .f_line {
+    color: #676767;
+}
+
+.bot-a span {
+    color: #676767;
+}
