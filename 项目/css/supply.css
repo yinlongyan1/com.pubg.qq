@@ -1,0 +1,274 @@
+/* <!-- 第一部分 --> */
+/* <!-- 平台 -->  */
+.platform {
+    width: 100%;
+    height: 45px;
+}
+
+/* 第一个链接 */
+.first {
+    margin: 0px 130px;
+}
+
+/* 第二个链接 */
+.thesecond {
+    float: right;
+    margin: 5px 0px;
+
+}
+
+.thesecond span {
+    margin: 0 8px;
+    size: 5px;
+}
+
+/* <!-- 第二部分 --> */
+/* <!-- 导航 --> */
+.Navigation {
+    position: relative;
+    width: 100%;
+    height: 67px;
+    background-color: cadetblue;
+}
+
+/* <!-- 背景图片 --> */
+.Navigation img {
+    float: left;
+    height: 92px;
+    width: 100%;
+}
+
+/* <!-- 图标 --> */
+.aaa img {
+    width: 120px;
+    height: 85px;
+    margin: -99px 10px;
+}
+
+/* <!-- 链接 --> */
+.pubg {
+    float: left;
+    width: 574px;
+    height: 50px;
+    margin: -86px 166px;
+}
+
+.pubg span {
+    float: left;
+    margin: 20px 10px;
+    color: seashell;
+}
+
+.pubg .aaa {
+    float: left;
+    margin: 20px 10px;
+    color: #e69800;
+}
+
+/* <!-- 进入官网链接 --> */
+.into {
+    float: right;
+    width: 470px;
+    height: 50px;
+    margin: -85px 0px;
+}
+
+.a {
+    float: left;
+    margin: 15px 50px;
+    color: #fff;
+}
+
+.x {
+    float: right;
+    width: 106px;
+    height: 44px;
+    color: #fff;
+    background: #e69800;
+    margin: 10px 15px;
+
+}
+
+.x span {
+    margin-left: 20px;
+    line-height: 40px;
+}
+
+/* <!-- 第三部分 --> */
+/* <!-- 背景图片 --> */
+.picture img{
+    width: 100%;
+    height: 428px;
+    margin: -30px 0;
+    }
+    
+
+
+/* <!-- 第四部分 --> */
+/* <!-- 防具解析 --> */
+.Armor {
+   position: relative;
+}
+.Armor img{
+    width: 100%;
+    height: 2500px;
+   margin-top: 26px;
+}
+/* <!-- 背景图片 --> */
+/* <!-- 版心 --> */
+/* <!-- 解析 --> */
+.analysis {
+    position: absolute;
+    margin-top: -2400px;
+    margin-left: 97px;
+    width: 1000px;
+    height:2134px;
+}
+/* <!-- 标题 --> */
+.Title {
+    text-align: center;
+    color: #2c2c2c;
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #e5a201;
+}
+.Title-a {
+      color: #2c2c2c;
+    font-size: 14px;
+    margin: 40px 0;
+    line-height: 24px;
+    padding-top: 20px;
+}
+
+
+/* <!-- 补给 --> */
+
+.supply-a {
+    float: left;
+    width: 473px;
+    height: 550px;
+    margin: 20px  10px ;
+}
+
+.aa-aa img {
+    position: relative;
+    margin-left: 150px;
+    width: 191px;
+    height: 51px;
+}
+
+.aa-aa span {
+    position: absolute;
+    color: #e69800;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: -130px;
+    margin-top: 35px;
+}
+
+
+.bb-bb img{
+    width: 445px;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.supply-a p {
+    margin-top: 40px;
+}
+
+
+
+.btnz {
+    position: absolute;
+    margin-top: 139px;
+    text-align: center;
+}
+
+
+.btnz a.backi {
+    background: url(../images/ProtectiveClothing/bottom_btn1.jpg) no-repeat;
+}
+
+.btnz a {
+    display: inline-block;
+    margin: 0px 147px;
+    width: 202px;
+    height: 65px;
+    text-indent: -9999px;
+}
+
+a {
+    text-decoration: none;
+    overflow: hidden;
+    outline: none;
+}
+
+.btnz a.backx {
+    background: url(../images/ProtectiveClothing/bottom_btn2.jpg) no-repeat;
+}
+
+.btnz a {
+    display: inline-block;
+    margin: 0 145px;
+    width: 202px;
+    height: 65px;
+    text-indent: -9999px;
+}
+
+
+
+
+
+
+
+
+/* <!-- 第五部分 --> */
+/* <!-- 底部 --> */
+.bottom {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+}
+.bottom-a img {
+    float: left;
+    width: 197px;
+    height: 74px;
+    margin-top: 77px;
+}
+
+.botto img {
+    float: left;
+    width: 197px;
+    height: 74px;
+    margin-top: 77px;
+}
+
+
+.bottom-b {
+    float: right;
+    margin-top: 38px;
+    width: 800px;
+}
+
+.bot-a {
+    width: 800px;
+    height: 30px;
+}
+
+.bot-a a {
+    color: #676767;
+}
+
+.bot-a .f_line {
+    color: #676767;
+}
+
+.bot-a span {
+    color: #676767;
+}
+
+
+
